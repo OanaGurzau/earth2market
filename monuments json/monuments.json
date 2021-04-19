@@ -1,251 +1,401 @@
 [
     {
+        "pageTitle":"The Sphinx",
+        "slug":"the-sphinx",
+        "pageDescription":"The Sphinx is the largest single-sculped stone in the world, carved out of limestone bedrock.",
         "propertyId": "a8e7ad9a-289a-4b30-89a0-c2d15117f71c",
         "wikiLink": "https://en.wikipedia.org/wiki/Sphinx",
         "imageName": "imgs/The_Sphinx_Cairo_Egypt.jpg"
     },
-    {
+    {   
+        "pageTitle":"The Great Pyramids of Giza Cairo Egypt",
+        "slug":"the-great-pyramids-of-giza-cairo-egypt",
+        "pageDescription":"The Great Pyramids of Giza are the last standing wonders of the Ancient World that amaze engineers to this date.",
         "propertyId": "2f5321e8-f549-4e15-895a-5be89a4d3aa5",
         "wikiLink": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
         "imageName": "imgs/The_Great_Pyramids_of_Giza_Cairo_Egypt.jpg"
     },
-    {
+    {   
+        "pageTitle":"Statue of Liberty New York",
+        "slug":"statue-of-liberty-new-york",
+        "pageDescription":"This shining representation of the American Dream lies in New York City and has a height of 46 meters.",
         "propertyId": "bb61e9d2-4f39-437b-b2f4-3fe876e21f22",
         "wikiLink": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
         "imageName": "imgs/Statue_of_Liberty_New_York.jpg"
     },
     {
+        "pageTitle":"The Eiffel Tower Paris",
+        "slug":"the-eiffel-tower-paris",
+        "pageDescription":"Eiffel Tower dominates the Parisian horizon. The most visited monument with an entrance fee in the world.",
         "propertyId": "33db6c1e-9f15-4ee9-97a8-a8d2b086e0c3",
         "wikiLink": "https://en.wikipedia.org/wiki/Eiffel_Tower",
         "imageName": "imgs/The_Eiffel_Tower_Paris.jpg"
     },
     {
+        "pageTitle":"Saint Basil's Cathedral Moscow",
+        "slug":"saint-basils-cathedral-moscow",
+        "pageDescription":"One of the most popular symbols of Russia, the Cathedral of Vasily the Blessed is a must see in the country.",
         "propertyId": "2e5a57a5-fd05-40f9-ab08-be9d173947d9",
         "wikiLink": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral",
         "imageName": "imgs/St_Basils_Cathedral_Moscow.jpg"
     },
     {
+        "pageTitle":"Blue Domed Church in Santorini Greece",
+        "slug":"blue-domed-church-in-santorini-greece",
+        "pageDescription":"Classic blue doomed churches in Santorini are famous for their colorful dooms.",
         "propertyId": "cbe96bb9-9d32-41e0-a6e6-4ad3d77c7162",
         "wikiLink": "https://en.wikipedia.org/wiki/Three_Bells_of_Fira",
         "imageName": "imgs/Blue_Domed_Church_in_Santorini_Greece.jpg"
     },
     {
+        "pageTitle":"The Little Mermaid in Copenhagen Denmark",
+        "slug":"the-little-ermaid-in-copenhagen-denmark",
+        "pageDescription":"Little Mermaid is a bronze statue looking out at the sea, inspired by a ballet dancer.",
         "propertyId": "cc957ad1-87cb-4c56-b775-5d3eb9e75082",
         "wikiLink": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)",
         "imageName": "imgs/The_Little Mermaid_in_Copenhagen_Denmark.jpg"
     },
     {
+        "pageTitle":"Palace of Versailles in France",
+        "slug":"palace-of-versailles-in-france",
+        "pageDescription":"One of the most visited attractions in France. Palace of Versailles is named a UNESCO World Heritage site.",
         "propertyId": "c8f138ff-512e-4e72-997b-ee9f8402b038",
         "wikiLink": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
         "imageName": "imgs/Palace_of_Versailles_in_France.jpg"
     },
     {
+        "pageTitle":"The Great Wall of China",
+        "slug":"the-great-wall-of-china",
+        "pageDescription":"The Great Wall of China is the largest fort in the World, named a heritage by UNESCO.",
         "propertyId": "62615545-bc25-47c0-86dc-6a037f4f398c",
         "wikiLink": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
         "imageName": "imgs/The_Great_Wall_of_China.jpg"
     },
     {
+        "pageTitle":"Windmills at Kinderdijk Holland",
+        "slug":"windmills-at-kinderdijk-holland",
+        "pageDescription":"A group of 19 windmills that are still operating till this day.",
         "propertyId": "cee6af67-0029-44a0-9195-96cc13b53912",
         "wikiLink": "https://en.wikipedia.org/wiki/Windmills_at_Kinderdijk",
         "imageName": "imgs/Windmills_at_Kinderdijk_Holland.jpg"
     },
     {
+        "pageTitle":"Taj Mahal Agra India",
+        "slug":"taj-mahal-agra-india",
+        "pageDescription":"Famous mausoleum in Agra, India. The sun alters its appearance depending on the time of the day.",
         "propertyId": "72eb5449-8cb7-4eb0-ae1a-9c7e86ef0232",
         "wikiLink": "https://en.wikipedia.org/wiki/Taj_Mahal",
         "imageName": "imgs/Taj_Mahal_Agra_India.jpg"
     },
     {
+        "pageTitle":"Machu Picchu Peru",
+        "slug":"machu-picchu-peru",
+        "pageDescription":"Mach Picchu is a protected and sacred citadel that represents the power and ingenuity of the INCA people.",
         "propertyId": "157f6a1b-0dcb-48d1-804e-1535b5ae80a6",
         "wikiLink": "https://en.wikipedia.org/wiki/Machu_Picchu",
         "imageName": "imgs/Machu_Picchu_Peru.jpg"
     },
     {
+        "pageTitle":"Big Ben in London",
+        "slug":"big-ben-in-london",
+        "pageDescription":"Original name: Great Bell. The Bell weights 13.7 tons and stands 96 meters tall.",
         "propertyId": "e26953fa-0abc-4f51-b4d8-5fb6aadb263e",
         "wikiLink": "https://en.wikipedia.org/wiki/Big_Ben",
         "imageName": "imgs/Big_Ben_in_London.jpg"
     },
     {
+        "pageTitle":"Burj Khalifa Dubai United Arab Emirates",
+        "slug":"burj-khalifa-dubai-united-arab-emirates",
+        "pageDescription":"The tallest building in the world is located in Dubai, UAE and measures 2,716 feet tall.",
         "propertyId": "907f70dd-09b1-4182-bc7d-9a95ef80411f",
         "wikiLink": "https://en.wikipedia.org/wiki/Burj_Al_Arab",
         "imageName": "imgs/Burj_Khalifa_Dubai_United_Arab_Emirates.jpg"
     },
     {
+        "pageTitle":"Leaning Tower of Pisa Italy",
+        "slug":"leaning-tower-of-pisa-italy",
+        "pageDescription":"Built from stone and marble, the Leaning Tower of Pisa has a height of 55.8 meters (183.3 ft).",
         "propertyId": "b6d104d9-f019-4763-8f82-f2a72c44b6e4",
         "wikiLink": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
         "imageName": "imgs/Leaning_Tower_of_Pisa_Pisa_Italy.jpg"
     },
     {
+        "pageTitle":"Christ the Redeemer Rio de Janeiro",
+        "slug":"christ-the-redeemer-rio-de-janeiro",
+        "pageDescription":"The giant statue of Christ the Redeemer was built in 9 years in a magnificent spot in Rio de Janeiro.",
         "propertyId": "7dadc555-5e5b-43d7-b686-6d47df5ad7ba",
         "wikiLink": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
         "imageName": "imgs/Christ_the_Redeemer_Rio_de_Janeiro.jpg"
     },
     {
+        "pageTitle":"Lascaux in France",
+        "slug":"lascaux-in-france",
+        "pageDescription":"This complex of caves are located in France, bringing together famous cave paintings from 46,000 years ago.",
         "propertyId": "6da6211e-e361-4f22-87ca-a76634886cad",
         "wikiLink": "https://en.wikipedia.org/wiki/Lascaux",
         "imageName": "imgs/Lascaux_in_France.jpg"
     },
     {
+        "pageTitle":"Loch Ness in Scotland",
+        "slug":"loch-ness-in-scotland",
+        "pageDescription":"Loch Ness is a mythical marine creature. For decades, people made considerable efforts to capture it.",
         "propertyId": "14a97b5b-4335-4def-9390-752bce2d4a7d",
         "wikiLink": "https://en.wikipedia.org/wiki/Loch_Ness",
         "imageName": "imgs/Loch_Ness_in_Scotland.jpg"
     },
     {
+        "pageTitle":"Mont Saint Michel Normandy France",
+        "slug":"mont-saint-michel-normandy-france",
+        "pageDescription":"A breathtaking scenery is offered by the castle of Mont Saint Michel located on top of a rock in Normandy.",
         "propertyId": "36745eca-ee19-4498-a505-12e7860cb56f",
         "wikiLink": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
         "imageName": "imgs/Mont_Saint-Michel_Normandy_France.jpg"
     },
     {
+        "pageTitle":"The Colosseum, Rome",
+        "slug":"the-colosseum-rome",
+        "pageDescription":"A long time ago, the place we know as Colosseum in Italy, was in fact a separate city within Rome.",
         "propertyId": "668ab475-e189-46c8-8bad-1ca1aa7281a2",
         "wikiLink": "https://en.wikipedia.org/wiki/Colosseum",
         "imageName": "imgs/The_Colosseum_Rome.jpg"
     },
     {
+        "pageTitle":"Bran Castle in Transylvania, Romania",
+        "slug":"bran-castle-in-transylvania-romania",
+        "pageDescription":"Romania's hidden treasure, the Bran Castle holds a lot of history about Dracula. Lots of stories too.",
         "propertyId": "768914d1-c983-4f4a-805f-a9e5244127c5",
         "wikiLink": "https://en.wikipedia.org/wiki/Bran_Castle",
         "imageName": "imgs/Bran_Castle_in_Transylvania_Romania.jpg"
     },
     {
+        "pageTitle":"Hagia Sophia Istanbul, Turkey",
+        "slug":"hagia-sophia-istanbul-turkey",
+        "pageDescription":"The patriarchal cathedral of Constantinople, build in 573, was recently opened to the public as a mosque in 2020.",
         "propertyId": "74368f47-bf6d-4a0e-809f-da3fd3aa3ff8",
         "wikiLink": "https://en.wikipedia.org/wiki/Hagia_Sophia",
         "imageName": "imgs/Hagia_Sophia_Istanbul_Turkey.jpg"
     },
     {
+        "pageTitle":"Brandenburg Gate in Berlin, Germany",
+        "slug":"brandenburg_gate_in_berlin_germany",
+        "pageDescription":"Brandenburg Gate is known for separating Berlin and Germany. Today, is a symbol of unity and peace.",
         "propertyId": "7a95d419-9181-4b9f-93bf-6e717a0fca13",
         "wikiLink": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
         "imageName": "imgs/Brandenburg_Gate_in_Berlin_Germany.jpg"
     },
     {
+        "pageTitle":"The Acropolis Athens, Greece",
+        "slug":"the-acropolis-athens-greece",
+        "pageDescription":"One of the most important museums in the world, The Acropolis in Greece became a symbol of Athens with a great historical importance.",
         "propertyId": "03abffd7-dfd6-41cc-a0ac-a66ae7df4ca2",
         "wikiLink": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
         "imageName": "imgs/The_Acropolis_Athens_Greece.jpg"
     },
     {
+        "pageTitle":"La Sagrada Familia Barcelona, Spain",
+        "slug":"la-sagrada-familia-barcelona-spain",
+        "pageDescription":"Sagrada Familia is an iconic must-see church holding a significant religious importance.",
         "propertyId": "41625350-5651-450f-9177-17f9e1a4c1e8",
         "wikiLink": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
         "imageName": "imgs/La_Sagrada_Familia_Barcelona_Spain.jpg"
     },
     {
+        "pageTitle":"Uluru in the Northern Territory Australia",
+        "slug":"uluru-in-the-northern-territory-australia",
+        "pageDescription":"Uluru is an isolated 600 million years old sacred red sandstone located in Australia.",
         "propertyId": "217a45e7-15dd-4608-a2a8-80cbe636ab41",
         "wikiLink": "https://en.wikipedia.org/wiki/Uluru",
         "imageName": "imgs/Uluru_in_the_Northern_Territory_Australia.jpg"
     },
     {
+        "pageTitle":"Neuschwanstein in Bavaria",
+        "slug":"neuschwanstein-in-bavaria",
+        "pageDescription":"The Neuschwanstein castle holds multiple romane scultures dating since 1869, located in South of Bavaria.",
         "propertyId": "c44eb42b-82d5-4357-b814-d3afc8009c25",
         "wikiLink": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
         "imageName": "imgs/Neuschwanstein_in_Bavaria.jpg"
     },
     {
+        "pageTitle":"Mount Fuji in Japan",
+        "slug":"mount-fuji-in-japan",
+        "pageDescription":"Mount Fuji is the most iconic landscape of Japan. Its perfect symmetry attracts hikers like a magnet.",
         "propertyId": "d2386861-54d8-486f-aa9a-dfe7ef34ff99",
         "wikiLink": "https://en.wikipedia.org/wiki/Mount_Fuji",
         "imageName": "imgs/Mount_Fuji_in_Japan.jpg"
     },
     {
+        "pageTitle":"Stonehenge Wiltshire England",
+        "slug":"stonehenge-wiltshire-england",
+        "pageDescription":"Ancient monument constructed 3000 B.C, and it includes over 700 archaeological features.",
         "propertyId": "e0de4a4f-6081-4e8a-8bfc-92d84c68a2aa",
         "wikiLink": "https://en.wikipedia.org/wiki/Stonehenge",
         "imageName": "imgs/Stonehenge_Wiltshire_England.jpg"
     },
     {
+        "pageTitle":"Mount Eden crater in New Zealand",
+        "slug":"mount-eden-crater-in-new-zealand",
+        "pageDescription":"Mount Eden, the highest vulcano in Auckland with 50m deep crater.",
         "propertyId": "300198b8-63a3-404d-b5a4-7da5b70b58ad",
         "wikiLink": "https://en.wikipedia.org/wiki/Maungawhau_/_Mount_Eden",
         "imageName": "imgs/Mount_Eden_crater_in_New_Zealand.jpg"
     },
     {
+        "pageTitle":"Easter Island, Chile",
+        "slug":"easter-island-chile",
+        "pageDescription":"The island holds more than 1.000 moais on Easter Island weighting 80 tons and 10 meters high.",
         "propertyId": "28eab81f-035c-4025-8242-25cb815700e1",
         "wikiLink": "https://en.wikipedia.org/wiki/Easter_Island",
         "imageName": "imgs/Easter_Island_Chile.jpg"
     },
     {
+        "pageTitle":"Capitol Hill in Washington, DC",
+        "slug":"capitol-hill-in-washington-dc",
+        "pageDescription":"One of the most popular place to live in Washing DC. Capitol Hill attracts politicians and tourists alike.",
         "propertyId": "9f844ab4-1908-485d-a8ac-a7d8b2686b36",
         "wikiLink": "https://en.wikipedia.org/wiki/Capitol_Hill",
         "imageName": "imgs/Capitol_Hill_in_Washington_DC.jpg"
     },
     {
+        "pageTitle":"Niagara Falls",
+        "slug":"niagara-falls",
+        "pageDescription":"Canada holds the biggest waterfalls in the world. Niagara Falls gathers lots of newlyweds each year.",
         "propertyId": "3e9eec4f-2774-4f5c-b351-323ee4de1bec",
         "wikiLink": "https://en.wikipedia.org/wiki/Niagara_Falls",
         "imageName": "imgs/Niagara_Falls.jpg"
     },
     {
+        "pageTitle":"Angkor Temple Siem Reap Cambodia",
+        "slug":"angkor-temple-siem-reap-cambodia",
+        "pageDescription":"The largest religious buildings ever created, Angkor Wat belongs is part of a temple complex dedicated to Hindu God.",
         "propertyId": "e9d03b22-5c3e-460b-8438-30da6873ed56",
         "wikiLink": "https://en.wikipedia.org/wiki/Angkor_Wat",
         "imageName": "imgs/Angkor_Temple_Siem_Reap_Cambodia.jpg"
     },
     {
+        "pageTitle":"Manneken Pis in Brussels",
+        "slug":"manneken-pis-in-brussels",
+        "pageDescription":"The brave man pictured stands in the cold all winter. Thousands of people come to visit and take a picture.",
         "propertyId": "1b8addfa-5bd1-4ea2-9d07-f00a682726e9",
         "wikiLink": "https://en.wikipedia.org/wiki/Manneken_Pis",
         "imageName": "imgs/Manneken_Pis_in_Brussels.jpg"
     },
     {
+        "pageTitle":"Mount Everest on the border of Tibet and Nepal",
+        "slug":"mount-everest-on-the-border-of-tibet-and-nepal",
+        "pageDescription":"Hundreds of people attempt to climb Mount Everest each year. It has more than 200 bodies as landmarks on the way to the top.",
         "propertyId": "02708c14-7c56-4ea1-bc76-7f46e2d194b6",
         "wikiLink": "https://en.wikipedia.org/wiki/Mount_Everest",
         "imageName": "imgs/Mount_Everest_on_the_border_of_Tibet_and_Nepal.jpg"
     },
     {
+        "pageTitle":"Sydney Opera House",
+        "slug":"sydney-opera-house",
+        "pageDescription":"Sydney Opera House is a fascinating 20th century masterpiece. It's construction took 14 years.",
         "propertyId": "2afb70e9-889c-4d1c-9836-4187be81812e",
         "wikiLink": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
         "imageName": "imgs/Sydney_Opera_House.jpg"
     },
     {
+        "pageTitle":"Saint Peters Cathedral at Vatican City",
+        "slug":"saint-peters-cathedral-at-vatican-city",
+        "pageDescription":"St. Peter's Basilica is considered the holiest temple of Catholic Church as well as Pope's residence.",
         "propertyId": "1587abf1-7099-4c29-bf9f-07ca340ba273",
         "wikiLink": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
         "imageName": "imgs/St_Peters_Cathedral_at_Vatican_City.jpg"
     },
     {
+        "pageTitle":"Mount Rushmore National Memorial Keystone, South Dakota",
+        "slug":"mount-rushmore-national-memorial-keystone-south-dakota",
+        "pageDescription":"A piece of art sculpted directly in granite by Ku Klux Klan. The faces illustrate 4 presidents relevant for American history.",
         "propertyId": "cad7922f-12ad-4896-b434-e2c9a0133bb5",
         "wikiLink": "https://en.wikipedia.org/wiki/Mount_Rushmore",
         "imageName": "imgs/Mount_Rushmore_National_Memorial_Keystone_South_Dakota.jpg"
     },
     {
+        "pageTitle":"Victoria Falls between Zambia and Zimbabwe",
+        "slug":"victoria-falls-between-zambia-and-zimbabwe",
+        "pageDescription":"Victoria Falls is over a mile wide and presents a incredible sight of beauty and grandeur.",
         "propertyId": "245de075-6ead-4744-9af9-f6cd7becb7f5",
         "wikiLink": "https://en.wikipedia.org/wiki/Victoria_Falls",
         "imageName": "imgs/Victoria_Falls_between_Zambia_and_Zimbabwe.jpg"
     },
     {
+        "pageTitle":"The Great Buddha of Kamakura in Japan",
+        "slug":"the-great-buddha-of-kamakura-in-japan",
+        "pageDescription":"The bronze statue of Great Buddha illustrates the faith in human spirit and belief in something greater than ourselves.",
         "propertyId": "8119772d-fe5d-4608-aced-3acc0ed9c894",
         "wikiLink": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in",
         "imageName": "imgs/The_Great_Buddha_of_Kamakura_in_Japan.jpg"
     },
     {
+        "pageTitle":"Petra Ruins Petra Jordan",
+        "slug":"petra-ruins-petra-jordan",
+        "pageDescription":"The magical ruins of Petra, Jordan has a rich cultural heritage. The ruins appeared in many movies.",
         "propertyId": "176fa901-ab56-4404-8d1e-7b989aeb5cc5",
         "wikiLink": "https://en.wikipedia.org/wiki/Petra",
         "imageName": "imgs/Petra_Ruins_Petra_Jordan.jpg"
     },
     {
+        "pageTitle":"Trevi Fountain in Rome Italy",
+        "slug":"trevi-fountain-in-rome-italy",
+        "pageDescription":"Tevi Fountain is the largest fountain in the city. Around $4.000 coins are being tossed there every day.",
         "propertyId": "2f67b764-27fa-439d-baba-f21677ac4f28",
         "wikiLink": "https://en.wikipedia.org/wiki/Trevi_Fountain",
         "imageName": "imgs/Trevi_Fountain_in_Rome_Italy.jpg"
     },
     {
+        "pageTitle":"North Cape in Norway",
+        "slug":"north-cape-in-norway",
+        "pageDescription":"Due to its beauty, the northern coast of Norway brings thousands of tourists every year.",
         "propertyId": "8a2e7a27-439b-41d8-a0a9-71e015d21977",
         "wikiLink": "https://en.wikipedia.org/wiki/North_Cape_(Norway)",
         "imageName": "imgs/North_Cape_in_Norway.jpg"
     },
     {
+        "pageTitle":"Chichen Itza in Mexico",
+        "slug":"chichen-itza-in-mexico",
+        "pageDescription":"Chichen Itza located in Yucatan Peninsula, Mexico hides a unique architecture and natural wonders.",
         "propertyId": "7225e14a-4cdb-4913-b99d-0fc8225713ff",
         "wikiLink": "https://en.wikipedia.org/wiki/Chichen_Itza",
         "imageName": "imgs/Chichen_Itza_in_Mexico.jpg"
     },
     {
+        "pageTitle":"Burj Khalifa Dubai United Arab Emirates",
+        "slug":"burj-khalifa-dubai-united-arab-emirates",
+        "pageDescription":"Burj Khalifa is a skyscraper in UAE, Dubai, inaugurated in 2010. It's the tallest building in the world.",
         "propertyId": "506d7a38-d419-46ce-a041-45ca19595c90",
         "wikiLink": "https://en.wikipedia.org/wiki/Burj_Khalifa",
         "imageName": "imgs/Burj_Khalifa_Dubai_United_Arab_Emirates.jpg"
     },
     {
+        "pageTitle":"Golden Gate Bridge San Francisco",
+        "slug":"golden-gate-bridge-san-francisco",
+        "pageDescription":"Golden Gate is one of the most photographed bridges in the world due to its size, scale and beauty.",
         "propertyId": "5b36823c-9b16-4ae9-b903-19e27517d2cb",
         "wikiLink": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
         "imageName": "imgs/Golden_Gate_Bridge_San_Francisco.jpg"
     },
     {
+        "pageTitle":"Buckingham Palace London",
+        "slug":"buckingham-palace-london",
+        "pageDescription":"In the last few years, Queen Elizabeth II allows self-guided tours for picnics in Buckingham Palace.",
         "propertyId": "da2c884f-dc96-45a2-94d8-e172809f5fb8",
         "wikiLink": "https://en.wikipedia.org/wiki/Buckingham_Palace",
         "imageName": "imgs/Buckingham_Palace_London.jpg"
     },
     {
+        "pageTitle":"Blue Mosque Istanbul",
+        "slug":"blue-mosque-istanbul",
+        "pageDescription":"The most important mosque of Istanbul, the Blue Mosque holds the tomb of its creator.",
         "propertyId": "1a11b053-26e1-439d-a5d3-93aba022c38e",
         "wikiLink": "https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque",
         "imageName": "imgs/Blue_Mosque_Istanbul.jpg"
     },
     {
-        "propertyId": "/77102935-6fa5-47b1-982c-6004bceeda02",
+        "pageTitle":"The Grand Palace Bangkok",
+        "slug":"the-grand-palace-bangkok",
+        "pageDescription":"The Grand Palace of Bangkok was home for royalties from 172 until 1925. It is now open for public.",
+        "propertyId": "77102935-6fa5-47b1-982c-6004bceeda02",
         "wikiLink": "https://en.wikipedia.org/wiki/Grand_Palace",
         "imageName": "imgs/The_Grand_Palace_Bangkok.jpg"
     }
